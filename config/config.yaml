@@ -1,0 +1,8 @@
+# 被测环境配置
+base_url: http://localhost:8080
+timeout: 10
+
+# 管理员测试账号（管理端用例使用，按需填写）
+admin:
+  username: admin
+  password: ""
